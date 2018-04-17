@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "registroCivil", "registroCivil\", "{D87552E1-4AA0-4714-BE52-9DF8C3AB69DD}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		ProjectReferences = "{31c26b31-886b-40f6-8fae-65dc22ea6c94}|registroCivil.business.dll;{025d3895-bf7a-44ce-9a1e-3ced69c7cd26}|registroCivil.entities.dll;{8704d71a-9c21-4071-aab0-3647fdede24d}|registroCivil.dao.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53095"
+		Debug.AspNetCompiler.PhysicalPath = "registroCivil\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53095\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53095"
+		Release.AspNetCompiler.PhysicalPath = "registroCivil\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53095\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53095"
+		SlnRelativePath = "registroCivil\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{8704D71A-9C21-4071-AAB0-3647FDEDE24D} = {8704D71A-9C21-4071-AAB0-3647FDEDE24D}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "registroCivil.entities", "registroCivil.entities\registroCivil.entities.csproj", "{025D3895-BF7A-44CE-9A1E-3CED69C7CD26}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "registroCivil.business", "registroCivil.business\registroCivil.business.csproj", "{31C26B31-886B-40F6-8FAE-65DC22EA6C94}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8704D71A-9C21-4071-AAB0-3647FDEDE24D} = {8704D71A-9C21-4071-AAB0-3647FDEDE24D}
+		{025D3895-BF7A-44CE-9A1E-3CED69C7CD26} = {025D3895-BF7A-44CE-9A1E-3CED69C7CD26}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "registroCivil.dao", "registroCivil.DAO\registroCivil.dao.csproj", "{8704D71A-9C21-4071-AAB0-3647FDEDE24D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{025D3895-BF7A-44CE-9A1E-3CED69C7CD26} = {025D3895-BF7A-44CE-9A1E-3CED69C7CD26}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D87552E1-4AA0-4714-BE52-9DF8C3AB69DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D87552E1-4AA0-4714-BE52-9DF8C3AB69DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D87552E1-4AA0-4714-BE52-9DF8C3AB69DD}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{D87552E1-4AA0-4714-BE52-9DF8C3AB69DD}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{025D3895-BF7A-44CE-9A1E-3CED69C7CD26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025D3895-BF7A-44CE-9A1E-3CED69C7CD26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025D3895-BF7A-44CE-9A1E-3CED69C7CD26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025D3895-BF7A-44CE-9A1E-3CED69C7CD26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C26B31-886B-40F6-8FAE-65DC22EA6C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C26B31-886B-40F6-8FAE-65DC22EA6C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C26B31-886B-40F6-8FAE-65DC22EA6C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C26B31-886B-40F6-8FAE-65DC22EA6C94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8704D71A-9C21-4071-AAB0-3647FDEDE24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8704D71A-9C21-4071-AAB0-3647FDEDE24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8704D71A-9C21-4071-AAB0-3647FDEDE24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8704D71A-9C21-4071-AAB0-3647FDEDE24D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ADF1DC4-6FD8-40B0-A238-304458EA907F}
+	EndGlobalSection
+EndGlobal

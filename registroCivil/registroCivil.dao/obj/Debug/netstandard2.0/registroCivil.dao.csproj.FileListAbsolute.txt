@@ -1,0 +1,34 @@
+C:\Users\Diego\Desktop\c Sharp\registroCivil\registroCivil.DAO\bin\Debug\netstandard2.0\registroCivil.dao.deps.json
+C:\Users\Diego\Desktop\c Sharp\registroCivil\registroCivil.DAO\bin\Debug\netstandard2.0\registroCivil.dao.dll
+C:\Users\Diego\Desktop\c Sharp\registroCivil\registroCivil.DAO\bin\Debug\netstandard2.0\registroCivil.dao.pdb
+C:\Users\Diego\Desktop\c Sharp\registroCivil\registroCivil.DAO\bin\Debug\netstandard2.0\Npgsql.dll
+C:\Users\Diego\Desktop\c Sharp\registroCivil\registroCivil.DAO\bin\Debug\netstandard2.0\registroCivil.entities.dll
+C:\Users\Diego\Desktop\c Sharp\registroCivil\registroCivil.DAO\bin\Debug\netstandard2.0\System.Threading.Tasks.Extensions.dll
+C:\Users\Diego\Desktop\c Sharp\registroCivil\registroCivil.DAO\bin\Debug\netstandard2.0\registroCivil.entities.pdb
+C:\Users\Diego\Desktop\c Sharp\registroCivil\registroCivil.DAO\bin\Debug\netstandard2.0\Npgsql.xml
+C:\Users\Diego\Desktop\c Sharp\registroCivil\registroCivil.DAO\bin\Debug\netstandard2.0\System.Threading.Tasks.Extensions.xml
+C:\Users\Diego\Desktop\c Sharp\registroCivil\registroCivil.DAO\obj\Debug\netstandard2.0\registroCivil.dao.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\c Sharp\registroCivil\registroCivil.DAO\obj\Debug\netstandard2.0\registroCivil.dao.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\c Sharp\registroCivil\registroCivil.DAO\obj\Debug\netstandard2.0\registroCivil.dao.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\c Sharp\registroCivil\registroCivil.DAO\obj\Debug\netstandard2.0\registroCivil.dao.AssemblyInfo.cs
+C:\Users\Diego\Desktop\c Sharp\registroCivil\registroCivil.DAO\obj\Debug\netstandard2.0\registroCivil.dao.csproj.CopyComplete
+C:\Users\Diego\Desktop\c Sharp\registroCivil\registroCivil.DAO\obj\Debug\netstandard2.0\registroCivil.dao.dll
+C:\Users\Diego\Desktop\c Sharp\registroCivil\registroCivil.DAO\obj\Debug\netstandard2.0\registroCivil.dao.pdb
+C:\Users\Diego\Desktop\registroCivil\registroCivil.DAO\bin\Debug\netstandard2.0\registroCivil.dao.deps.json
+C:\Users\Diego\Desktop\registroCivil\registroCivil.DAO\bin\Debug\netstandard2.0\registroCivil.dao.dll
+C:\Users\Diego\Desktop\registroCivil\registroCivil.DAO\bin\Debug\netstandard2.0\registroCivil.dao.pdb
+C:\Users\Diego\Desktop\registroCivil\registroCivil.DAO\bin\Debug\netstandard2.0\Npgsql.dll
+C:\Users\Diego\Desktop\registroCivil\registroCivil.DAO\bin\Debug\netstandard2.0\registroCivil.entities.dll
+C:\Users\Diego\Desktop\registroCivil\registroCivil.DAO\bin\Debug\netstandard2.0\System.Threading.Tasks.Extensions.dll
+C:\Users\Diego\Desktop\registroCivil\registroCivil.DAO\bin\Debug\netstandard2.0\registroCivil.entities.pdb
+C:\Users\Diego\Desktop\registroCivil\registroCivil.DAO\bin\Debug\netstandard2.0\Npgsql.xml
+C:\Users\Diego\Desktop\registroCivil\registroCivil.DAO\bin\Debug\netstandard2.0\System.Threading.Tasks.Extensions.xml
+C:\Users\Diego\Desktop\registroCivil\registroCivil.DAO\obj\Debug\netstandard2.0\registroCivil.dao.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\registroCivil\registroCivil.DAO\obj\Debug\netstandard2.0\registroCivil.dao.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\registroCivil\registroCivil.DAO\obj\Debug\netstandard2.0\registroCivil.dao.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\registroCivil\registroCivil.DAO\obj\Debug\netstandard2.0\registroCivil.dao.AssemblyInfo.cs
+C:\Users\Diego\Desktop\registroCivil\registroCivil.DAO\obj\Debug\netstandard2.0\registroCivil.dao.csproj.CopyComplete
+C:\Users\Diego\Desktop\registroCivil\registroCivil.DAO\obj\Debug\netstandard2.0\registroCivil.dao.dll
+C:\Users\Diego\Desktop\registroCivil\registroCivil.DAO\obj\Debug\netstandard2.0\registroCivil.dao.pdb
+C:\Users\Diego\Desktop\registroCivil\registroCivil.DAO\obj\Debug\netstandard2.0\registroCivil.dao.Properties.Resources.resources
+C:\Users\Diego\Desktop\registroCivil\registroCivil.DAO\obj\Debug\netstandard2.0\registroCivil.dao.csproj.GenerateResource.cache
