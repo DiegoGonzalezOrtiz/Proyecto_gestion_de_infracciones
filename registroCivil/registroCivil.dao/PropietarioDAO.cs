@@ -18,6 +18,7 @@ namespace registroCivil.dao
             result.nombre = row["nombre"].ToString();
             result.apellido_paterno = row["apellido_paterno"].ToString();
             result.apellido_materno = row["apellido_materno"].ToString();
+            result.direccion = row["direccion"].ToString();
             return result;
         }
         public Propietario findPropietarioById(long id)
@@ -31,6 +32,7 @@ namespace registroCivil.dao
             result.nombre = row["nombre"].ToString();
             result.apellido_paterno = row["apellido_paterno"].ToString();
             result.apellido_materno = row["apellido_materno"].ToString();
+            result.direccion = row["direccion"].ToString();
             return result;
         }
     }

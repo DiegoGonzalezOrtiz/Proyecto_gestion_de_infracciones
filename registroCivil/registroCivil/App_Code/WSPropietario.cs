@@ -15,14 +15,29 @@ public class WSPropietario : IWSPropietario
     public PropietarioFull GetPropietarioFull(string run)
     {
         PropietarioFull result;
-        result = bo.GetPropietarioFull(run);
+        try
+        {
+            result = bo.GetPropietarioFull(run);
+        }
+        catch (Exception e)
+        {
+            result = new PropietarioFull();
+        }
         return result;
+
     }
 
     public PropietarioFull GetVehiculoFull(string patente)
     {
         PropietarioFull result;
-        result = bo.GetVehiculoFull(patente);
+        try
+        {
+            result = bo.GetVehiculoFull(patente);
+        }
+        catch (Exception e)
+        {
+            result = new PropietarioFull();
+        }
         return result;
     }
 }

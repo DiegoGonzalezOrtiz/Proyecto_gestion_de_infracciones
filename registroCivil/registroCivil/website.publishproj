@@ -48,6 +48,10 @@ Copyright (C) Microsoft Corporation. Todos los derechos reservados.
       <Project>{31C26B31-886B-40F6-8FAE-65DC22EA6C94}</Project>
       <Name>registroCivil.business</Name>
     </ProjectReference>
+    <ProjectReference Include="..\registroCivil.DAO\registroCivil.dao.csproj">
+      <Project>{8704D71A-9C21-4071-AAB0-3647FDEDE24D}</Project>
+      <Name>registroCivil.dao</Name>
+    </ProjectReference>
     <ProjectReference Include="..\registroCivil.entities\registroCivil.entities.csproj">
       <Project>{025D3895-BF7A-44CE-9A1E-3CED69C7CD26}</Project>
       <Name>registroCivil.entities</Name>

@@ -16,5 +16,7 @@ namespace registroCivil.entities
         public string apellido_paterno { get; set; }
         [DataMember]
         public string apellido_materno { get; set; }
+        [DataMember]
+        public string direccion { get; set; }
     }
 }
