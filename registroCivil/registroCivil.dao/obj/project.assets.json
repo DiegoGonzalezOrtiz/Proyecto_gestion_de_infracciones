@@ -199,11 +199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Diego\\Desktop\\registroCivil\\registroCivil.DAO\\registroCivil.dao.csproj",
+      "projectUniqueName": "C:\\Users\\Diego\\Desktop\\Proyecto\\Proyecto_gestion_de_infracciones\\registroCivil\\registroCivil.DAO\\registroCivil.dao.csproj",
       "projectName": "registroCivil.dao",
-      "projectPath": "C:\\Users\\Diego\\Desktop\\registroCivil\\registroCivil.DAO\\registroCivil.dao.csproj",
+      "projectPath": "C:\\Users\\Diego\\Desktop\\Proyecto\\Proyecto_gestion_de_infracciones\\registroCivil\\registroCivil.DAO\\registroCivil.dao.csproj",
       "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Diego\\Desktop\\registroCivil\\registroCivil.DAO\\obj\\",
+      "outputPath": "C:\\Users\\Diego\\Desktop\\Proyecto\\Proyecto_gestion_de_infracciones\\registroCivil\\registroCivil.DAO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -222,8 +222,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Diego\\Desktop\\registroCivil\\registroCivil.entities\\registroCivil.entities.csproj": {
-              "projectPath": "C:\\Users\\Diego\\Desktop\\registroCivil\\registroCivil.entities\\registroCivil.entities.csproj"
+            "C:\\Users\\Diego\\Desktop\\Proyecto\\Proyecto_gestion_de_infracciones\\registroCivil\\registroCivil.entities\\registroCivil.entities.csproj": {
+              "projectPath": "C:\\Users\\Diego\\Desktop\\Proyecto\\Proyecto_gestion_de_infracciones\\registroCivil\\registroCivil.entities\\registroCivil.entities.csproj"
             }
           }
         }
